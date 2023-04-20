@@ -1,4 +1,4 @@
-# Peekhub
+# Peekhub 0.1
 stub obfuscator/builder
 
 
@@ -9,7 +9,7 @@ stub obfuscator/builder
 
 use installer to install requirements.
 
-make sure to tick all checks when installing in custom installation in python when clicking next.
+make sure to tick all checks when installing in custom installation/modify in python when clicking next.
 
 make sure to follow the instructions folder.
 

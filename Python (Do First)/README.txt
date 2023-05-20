@@ -1,0 +1,1 @@
+When you execute the Python installer, follow step 1 and 2 and click install then run the requirements.

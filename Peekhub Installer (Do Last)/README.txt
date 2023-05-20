@@ -1,0 +1,1 @@
+Finally, after you have done the other 2 things you can now run the installer, and you should be able to log some kids now.

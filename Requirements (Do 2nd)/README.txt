@@ -1,0 +1,1 @@
+After you have installed python, run the requirements and wait until the bat file closes to ensure that it has installed properly.
